@@ -12,5 +12,6 @@ fun main() {
 class Human{
     fun hello(){
         println("Hello kotlin")
+        println("Hello kotlin")
     }
 }
